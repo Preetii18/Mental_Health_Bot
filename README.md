@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Mental Health Bot - README</title>
-</head>
-<body>
-  <h1>Mental Health Bot 🤖🧠</h1>
+ <h1>Mental Health Bot 🤖🧠</h1>
   <p>A simple web app that uses <strong>BERT (nlptown multilingual sentiment model)</strong> to analyze user input and detect sentiment — helpful for identifying signs of mental stress.</p>
 
   <h2>🔧 Features</h2>
